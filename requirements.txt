@@ -4,3 +4,4 @@ vosk
 openai
 requests
 pygame
+pvporcupine
